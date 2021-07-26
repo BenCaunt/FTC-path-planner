@@ -1,2 +1,2 @@
-# FTC Sim
-A simulator for simulating control systems on mecanum robots for FIRST tech challenge. 
+# FTC Path PLanner 
+A simulator for visualizing and generating FTC path's.  
